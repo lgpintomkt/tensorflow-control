@@ -16,11 +16,16 @@
 .. image:: https://coveralls.io/repos/python-control/python-control/badge.svg
    :target: https://coveralls.io/r/python-control/python-control
 
-Python Control Systems Library
+Python Tensorflow Control Systems Library
 ==============================
 
-The Python Control Systems Library is a Python module that implements basic
-operations for analysis and design of feedback control systems.
+The Python Tensorflow Control Systems Library is a Python module that implements basic
+operations for analysis and design of feedback control systems. 
+
+It is a fork of the original Python Tensorflow Control Systems Library which replaces 
+scikit learn with tensorflow probability for the optimization. 
+
+This is a work in progress. Use at your own peril.
 
 Features
 --------
